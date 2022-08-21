@@ -27,7 +27,7 @@ etc/TFA9890_N1C3_2_1_1.patch
 
 # Camera
 bin/bwc
-lib/hw/camera.default.so
+lib/hw/camera.default.so:lib/hw/camera.mt6592.so
 lib/lib3a.so
 lib/liba3m.so
 lib/libbwc.so
