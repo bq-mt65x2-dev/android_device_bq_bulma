@@ -38,7 +38,6 @@ lib/libcam.camshot.so
 lib/libcam.client.so
 lib/libcam.device1.so
 lib/libcamdrv.so
-lib/libcamera_client.so
 lib/libcameracustom.so
 lib/libcamera_metadata.so
 lib/libcameraservice.so
