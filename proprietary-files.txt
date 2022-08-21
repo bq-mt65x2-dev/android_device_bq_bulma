@@ -39,7 +39,6 @@ lib/libcam.client.so
 lib/libcam.device1.so
 lib/libcamdrv.so
 lib/libcameracustom.so
-lib/libcamera_metadata.so
 lib/libcam.exif.so
 lib/libcam_hwutils.so
 lib/libcam_mmp.so
